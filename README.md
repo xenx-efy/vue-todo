@@ -1,4 +1,4 @@
-# cinema-hall
+# ToDo app
 
 ## Project setup
 ```
